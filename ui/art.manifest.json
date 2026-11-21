@@ -1,0 +1,561 @@
+{
+ "arenas/bamboo_shrine_strip.webp": {
+  "strip": "models/ui/arenas/bamboo_shrine_strip.webp",
+  "width": 3852,
+  "height": 768,
+  "bytes": 495030,
+  "size": [
+   3852,
+   768
+  ],
+  "horizonV": 0.349,
+  "seams": [
+   0.3393,
+   0.6607
+  ],
+  "date": "2026-11-19"
+ },
+ "arenas/bamboo_shrine_strip_low.webp": {
+  "strip": "models/ui/arenas/bamboo_shrine_strip_low.webp",
+  "width": 1926,
+  "height": 384,
+  "bytes": 153626,
+  "size": [
+   1926,
+   384
+  ],
+  "horizonV": 0.349,
+  "seams": [
+   0.3393,
+   0.6607
+  ],
+  "date": "2026-11-19"
+ },
+ "arenas/bamboo_shrine_vc.webp": {
+  "bytes": 190910,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_bamboo_shrine_vc",
+  "horizonV": 0.349,
+  "date": "2026-11-19"
+ },
+ "arenas/bamboo_shrine_vc_low.webp": {
+  "bytes": 58764,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_bamboo_shrine_vc",
+  "horizonV": 0.349,
+  "date": "2026-11-19"
+ },
+ "arenas/bamboo_shrine_vl.webp": {
+  "bytes": 153642,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_bamboo_shrine_vl",
+  "horizonV": 0.3724,
+  "date": "2026-11-19"
+ },
+ "arenas/bamboo_shrine_vl_low.webp": {
+  "bytes": 49644,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_bamboo_shrine_vl",
+  "horizonV": 0.3724,
+  "date": "2026-11-19"
+ },
+ "arenas/bamboo_shrine_vr.webp": {
+  "bytes": 177268,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_bamboo_shrine_vr",
+  "horizonV": 0.3724,
+  "date": "2026-11-19"
+ },
+ "arenas/bamboo_shrine_vr_low.webp": {
+  "bytes": 57184,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_bamboo_shrine_vr",
+  "horizonV": 0.3724,
+  "date": "2026-11-19"
+ },
+ "arenas/dojo_courtyard_pano.webp": {
+  "bytes": 133100,
+  "size": [
+   1294,
+   768
+  ],
+  "prompt_id": "arena_dojo_courtyard_pano",
+  "date": "2026-11-18"
+ },
+ "arenas/dojo_courtyard_pano_low.webp": {
+  "bytes": 128348,
+  "size": [
+   2048,
+   512
+  ],
+  "prompt_id": "arena_dojo_courtyard_pano",
+  "date": "2026-11-18"
+ },
+ "arenas/dojo_courtyard_strip.webp": {
+  "strip": "models/ui/arenas/dojo_courtyard_strip.webp",
+  "width": 3852,
+  "height": 768,
+  "bytes": 247344,
+  "size": [
+   3852,
+   768
+  ],
+  "horizonV": 0.349,
+  "seams": [
+   0.3393,
+   0.6607
+  ],
+  "date": "2026-11-19"
+ },
+ "arenas/dojo_courtyard_strip_low.webp": {
+  "strip": "models/ui/arenas/dojo_courtyard_strip_low.webp",
+  "width": 1926,
+  "height": 384,
+  "bytes": 87598,
+  "size": [
+   1926,
+   384
+  ],
+  "horizonV": 0.349,
+  "seams": [
+   0.3393,
+   0.6607
+  ],
+  "date": "2026-11-19"
+ },
+ "arenas/dojo_courtyard_vc.webp": {
+  "bytes": 84788,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_dojo_courtyard_vc",
+  "horizonV": 0.349,
+  "date": "2026-11-18"
+ },
+ "arenas/dojo_courtyard_vc_low.webp": {
+  "bytes": 30376,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_dojo_courtyard_vc",
+  "horizonV": 0.349,
+  "date": "2026-11-18"
+ },
+ "arenas/dojo_courtyard_vl.webp": {
+  "bytes": 107980,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_dojo_courtyard_vl",
+  "horizonV": 0.6484,
+  "date": "2026-11-18"
+ },
+ "arenas/dojo_courtyard_vl_low.webp": {
+  "bytes": 38074,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_dojo_courtyard_vl",
+  "horizonV": 0.6484,
+  "date": "2026-11-18"
+ },
+ "arenas/dojo_courtyard_vr.webp": {
+  "bytes": 68538,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_dojo_courtyard_vr",
+  "horizonV": 0.349,
+  "date": "2026-11-18"
+ },
+ "arenas/dojo_courtyard_vr_low.webp": {
+  "bytes": 25298,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_dojo_courtyard_vr",
+  "horizonV": 0.349,
+  "date": "2026-11-18"
+ },
+ "arenas/festival_street_strip.webp": {
+  "strip": "models/ui/arenas/festival_street_strip.webp",
+  "width": 3852,
+  "height": 768,
+  "bytes": 395428,
+  "size": [
+   3852,
+   768
+  ],
+  "horizonV": 0.6484,
+  "seams": [
+   0.3393,
+   0.6607
+  ],
+  "date": "2026-11-19"
+ },
+ "arenas/festival_street_strip_low.webp": {
+  "strip": "models/ui/arenas/festival_street_strip_low.webp",
+  "width": 1926,
+  "height": 384,
+  "bytes": 137110,
+  "size": [
+   1926,
+   384
+  ],
+  "horizonV": 0.6484,
+  "seams": [
+   0.3393,
+   0.6607
+  ],
+  "date": "2026-11-19"
+ },
+ "arenas/festival_street_vc.webp": {
+  "bytes": 142892,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_festival_street_vc",
+  "horizonV": 0.6484,
+  "date": "2026-11-19"
+ },
+ "arenas/festival_street_vc_low.webp": {
+  "bytes": 50350,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_festival_street_vc",
+  "horizonV": 0.6484,
+  "date": "2026-11-19"
+ },
+ "arenas/festival_street_vl.webp": {
+  "bytes": 127174,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_festival_street_vl",
+  "horizonV": 0.6484,
+  "date": "2026-11-19"
+ },
+ "arenas/festival_street_vl_low.webp": {
+  "bytes": 44522,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_festival_street_vl",
+  "horizonV": 0.6484,
+  "date": "2026-11-19"
+ },
+ "arenas/festival_street_vr.webp": {
+  "bytes": 140176,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_festival_street_vr",
+  "horizonV": 0.6484,
+  "date": "2026-11-19"
+ },
+ "arenas/festival_street_vr_low.webp": {
+  "bytes": 48772,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_festival_street_vr",
+  "horizonV": 0.6484,
+  "date": "2026-11-19"
+ },
+ "arenas/ground_dirt_courtyard.webp": {
+  "bytes": 217058,
+  "size": [
+   1024,
+   1024
+  ],
+  "prompt_id": "ground_dirt_courtyard",
+  "date": "2026-11-18"
+ },
+ "arenas/maple_falls_strip.webp": {
+  "strip": "models/ui/arenas/maple_falls_strip.webp",
+  "width": 3852,
+  "height": 768,
+  "bytes": 545248,
+  "size": [
+   3852,
+   768
+  ],
+  "horizonV": 0.349,
+  "seams": [
+   0.3393,
+   0.6607
+  ],
+  "date": "2026-11-19"
+ },
+ "arenas/maple_falls_strip_low.webp": {
+  "strip": "models/ui/arenas/maple_falls_strip_low.webp",
+  "width": 1926,
+  "height": 384,
+  "bytes": 182580,
+  "size": [
+   1926,
+   384
+  ],
+  "horizonV": 0.349,
+  "seams": [
+   0.3393,
+   0.6607
+  ],
+  "date": "2026-11-19"
+ },
+ "arenas/maple_falls_vc.webp": {
+  "bytes": 221352,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_maple_falls_vc",
+  "horizonV": 0.349,
+  "date": "2026-11-19"
+ },
+ "arenas/maple_falls_vc_low.webp": {
+  "bytes": 71996,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_maple_falls_vc",
+  "horizonV": 0.349,
+  "date": "2026-11-19"
+ },
+ "arenas/maple_falls_vl.webp": {
+  "bytes": 156202,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_maple_falls_vl",
+  "horizonV": 0.349,
+  "date": "2026-11-19"
+ },
+ "arenas/maple_falls_vl_low.webp": {
+  "bytes": 54722,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_maple_falls_vl",
+  "horizonV": 0.349,
+  "date": "2026-11-19"
+ },
+ "arenas/maple_falls_vr.webp": {
+  "bytes": 201210,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_maple_falls_vr",
+  "horizonV": 0.6484,
+  "date": "2026-11-19"
+ },
+ "arenas/maple_falls_vr_low.webp": {
+  "bytes": 68426,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_maple_falls_vr",
+  "horizonV": 0.6484,
+  "date": "2026-11-19"
+ },
+ "arenas/storm_bridge_strip.webp": {
+  "strip": "models/ui/arenas/storm_bridge_strip.webp",
+  "width": 3852,
+  "height": 768,
+  "bytes": 309936,
+  "size": [
+   3852,
+   768
+  ],
+  "horizonV": 0.4544,
+  "seams": [
+   0.3393,
+   0.6607
+  ],
+  "date": "2026-11-19"
+ },
+ "arenas/storm_bridge_strip_low.webp": {
+  "strip": "models/ui/arenas/storm_bridge_strip_low.webp",
+  "width": 1926,
+  "height": 384,
+  "bytes": 108722,
+  "size": [
+   1926,
+   384
+  ],
+  "horizonV": 0.4544,
+  "seams": [
+   0.3393,
+   0.6607
+  ],
+  "date": "2026-11-19"
+ },
+ "arenas/storm_bridge_vc.webp": {
+  "bytes": 120882,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_storm_bridge_vc",
+  "horizonV": 0.4544,
+  "date": "2026-11-19"
+ },
+ "arenas/storm_bridge_vc_low.webp": {
+  "bytes": 43340,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_storm_bridge_vc",
+  "horizonV": 0.4544,
+  "date": "2026-11-19"
+ },
+ "arenas/storm_bridge_vl.webp": {
+  "bytes": 114112,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_storm_bridge_vl",
+  "horizonV": 0.5404,
+  "date": "2026-11-19"
+ },
+ "arenas/storm_bridge_vl_low.webp": {
+  "bytes": 40318,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_storm_bridge_vl",
+  "horizonV": 0.5404,
+  "date": "2026-11-19"
+ },
+ "arenas/storm_bridge_vr.webp": {
+  "bytes": 87338,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "arena_storm_bridge_vr",
+  "horizonV": 0.3932,
+  "date": "2026-11-19"
+ },
+ "arenas/storm_bridge_vr_low.webp": {
+  "bytes": 32440,
+  "size": [
+   688,
+   384
+  ],
+  "prompt_id": "arena_storm_bridge_vr",
+  "horizonV": 0.3932,
+  "date": "2026-11-19"
+ },
+ "backdrop/characters.webp": {
+  "bytes": 101552,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "backdrop_characters",
+  "date": "2026-11-18"
+ },
+ "backdrop/forge.webp": {
+  "bytes": 144238,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "backdrop_forge",
+  "date": "2026-11-18"
+ },
+ "backdrop/profile.webp": {
+  "bytes": 153408,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "backdrop_profile",
+  "date": "2026-11-18"
+ },
+ "backdrop/settings.webp": {
+  "bytes": 234164,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "backdrop_settings",
+  "date": "2026-11-18"
+ },
+ "frames/paper.webp": {
+  "bytes": 42078,
+  "size": [
+   1024,
+   1024
+  ],
+  "prompt_id": "frame_paper",
+  "date": "2026-11-18"
+ },
+ "lobby/front.webp": {
+  "bytes": 107986,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "lobby_front",
+  "date": "2026-11-18"
+ },
+ "lobby/plate.webp": {
+  "bytes": 187238,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "lobby_plate",
+  "date": "2026-11-18"
+ },
+ "map/ch1.webp": {
+  "bytes": 312328,
+  "size": [
+   1376,
+   768
+  ],
+  "prompt_id": "map_ch1",
+  "date": "2026-11-18"
+ }
+}
